@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am an IT student with a strong interest in web development and UI UX design.<br> I have skills in HTML, CSS, Javascript, React and basic programming languages like C, Java, Python.<br> I enjoy creating clean responsive and user friendly website and a continuously improving my technical and communication skill.
+I am an IT student with a strong interest in web development and UI UX design.<br> I have skills in HTML, CSS, Javascript, React and basic programming languages like C, Java, Python.<br> I enjoy creating clean responsive and user friendly website and a continuously improving my technical and communication skill.
 
 
 ## 🌐 Socials:
